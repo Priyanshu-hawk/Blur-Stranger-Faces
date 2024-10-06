@@ -1,0 +1,4 @@
+retina-face
+deepface
+tf-keras
+opencv-python
